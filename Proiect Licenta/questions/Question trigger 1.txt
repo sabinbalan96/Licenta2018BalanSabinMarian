@@ -1,0 +1,7 @@
+Conducatorul de autovehicul poate efectua depasirea pe partea dreapta a autovehiculului al carui conducator a semnalizat intentia schimbarii de mers spre stanga?
+da, daca vehiculul din fata s-a angajat corespunzator parasirii sensului de mers;
+da, daca s-a creat spatiu suficient pentru aceasta manevra;
+nu.
+1
+1
+0

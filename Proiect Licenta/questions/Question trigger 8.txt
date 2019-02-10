@@ -1,0 +1,7 @@
+Privind indicatiile pe care le-ati primit, pe ce banda de circulatie trebuie sa va incadrati pentru a vira la dreapta in urmatoarea intersectie?
+oricare;
+banda 2;
+banda 1.
+0
+0
+1

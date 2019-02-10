@@ -1,0 +1,7 @@
+Din ce categorie face parte acest indicator de circulatie?
+semne de circulatie de obligare;
+semne de circulatie de avertizare;
+semne de circulatie de orientare.
+0
+1
+0

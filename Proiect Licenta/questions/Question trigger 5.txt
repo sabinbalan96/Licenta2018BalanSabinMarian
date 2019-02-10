@@ -1,0 +1,7 @@
+Ce semnificatie are acest indicator?
+va aflati pe un drum in afara localitatii;
+urmeaza o intersectie nedirijata cu un drum de aceeasi categorie;
+urmeaza o intersectie cu un drum fara prioritate din partea dreapta.
+1
+0
+1

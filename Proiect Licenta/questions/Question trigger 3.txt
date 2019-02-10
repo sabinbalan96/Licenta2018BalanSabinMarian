@@ -1,0 +1,7 @@
+Masina albastra merge inainte in timp ce masina rosie vireaza la stanga. Care dintre cei doi soferi are prioritate de trecere in aceasta situatie?
+soferii trebuie sa negocieze prioritatea deoarece amandoi au culoare verde la semafor;
+masina albastra;
+masina rosie.
+0
+1
+0
